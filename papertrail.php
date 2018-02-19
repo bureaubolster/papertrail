@@ -3,7 +3,7 @@
  * Plugin Name: Papertrail Logging API
  * Plugin URI:  https://github.com/sc0ttkclark/papertrail
  * Description: Papertrail Logging API for WordPress
- * Version:     0.4
+ * Version:     0.4.1
  * Author:      Scott Kingsley Clark
  * Author URI:  http://scottkclark.com/
  */
